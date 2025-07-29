@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+/frontend/build/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Docker
+postgres_data/
+
+# OS-specific
+.DS_Store

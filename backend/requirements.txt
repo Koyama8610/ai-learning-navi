@@ -1,0 +1,12 @@
+Flask
+Flask-CORS
+python-dotenv
+gunicorn
+requests
+google-generativeai
+psycopg2-binary
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+Werkzeug
+gevent
