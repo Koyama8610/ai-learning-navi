@@ -46,7 +46,7 @@
 | **フロントエンド** | React.js, Tailwind CSS, React Router, Axios |
 | **バックエンド** | Python 3.10, Flask, SQLAlchemy, Flask-JWT-Extended |
 | **データベース** | PostgreSQL |
-| **AI** | Google Gemini 1.5 Flash |
+| **AI** | Google Gemini 2.5 Flash |
 | **インフラ** | Docker, Docker Compose, Nginx, Gunicorn |
 
 ---
